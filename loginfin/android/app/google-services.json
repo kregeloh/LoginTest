@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "710583977979",
+    "firebase_url": "https://school-50507.firebaseio.com",
+    "project_id": "school-50507",
+    "storage_bucket": "school-50507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710583977979:android:890b91cc545b996f",
+        "android_client_info": {
+          "package_name": "com.example.loginfin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710583977979-1pkfkm8o0sdbttren1shnkjcolsjrb7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX6wp0MczoBYM3_ZWDrbaruChtVhtY49I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
